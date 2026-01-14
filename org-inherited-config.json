@@ -4,6 +4,6 @@
     "config:best-practices"
   ],
   "labels": [
-    "dependencies,renovate,inherited"
+    "dependencies,renovate"
   ]
 }
